@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Akasha Pool</title>
+ 
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet"> 
+    <!-- Bootstrap -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+    <link href="./css/onepagers-gradient.css" rel="stylesheet">
+    <link href="./css/gradients.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./font-awesome/css/font-awesome.min.css">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body data-spy="scroll" data-target="#topnav">
+    <!-- MAIN CONTAINER -->
+    <!-- Fixed navbar -->
+      <nav class="navbar navbar-default navbar-fixed-top" id="topnav">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            </button>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="#section1">Home</a></li>
+              <li><a href="#section2">Contact Us</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </nav>
+
+    <div class="container-fluid">
+      <!-- START SECTION 1 -->
+      <div class="row">
+        <div class="col-md-12 leadsection innershadow celestial" id="section1">
+
+        <div class="col-md-1">
+        </div>
+        <div class="col-md-10">
+          <!-- START SECTION 1 CONTENT -->
+          <h1>Akasha Pool</h1><br>
+          <p align="justify"class="lead">Join us in this journey of financial decentralization</p>
+          <p align="justify"class="lead">Experienced Computer Engineer with with passion for DeFi, security, networking, software</p>
+          <p align="justify"class="lead">The fact that we are all actively contributing in the evolution of the Cardano ecosystem makes us excited</p>
+          <p align="justify"class="lead">The pool is hosted on Linux OS which runs on baremetal servers, optimized for speed and low consumption, fully secured with hardware firewall</p>
+          <p align="justify"class="lead">Let's redistribute the wealth so we can all escape the rat race and spend time on our physical and mental evolution</p>
+          <p align="justify"class="lead">Power to us all!
+          <p></p>
+          <!-- END SECTION 1 CONTENT -->
+        </div>
+        <div class="col-md-1">
+        </div>
+
+
+        </div><!--/md-12 -->
+      </div><!--/row-->
+      <!-- END SECTION 1 -->
+
+    
+
+
+      <!-- START SECTION 2 -->
+      <div class="row">
+      <div class="col-md-12 section celestial-inverse" id="section2">
+
+      <div class="col-md-1">
+      </div>
+      <div class="col-md-10">
+      <!-- START SECTION 2 CONTENT -->
+      <h1>Contact Us</h1><br>
+      <p align="justify" class="lead">Please use the form below to send any questions you may have or just to say hi!</p>
+ <br><br><br>
+	
+     <div class="col-md-3	">
+      </div>
+	<div class="col-md-5">
+        <!-- START CONTACT FORM -->
+        <form action="https://formspree.io/f/mpzoekjw" method="POST">
+          <div class="form-group">
+            <label>Your Email</label>
+            <input type="email" class="form-control input-lg" name="_replyto" placeholder="Email" required>
+          </div>
+          <div class="form-group">
+            <label>Subject</label>
+            <input type="text" class="form-control input-lg" name="subject" placeholder="Subject">
+          </div>
+          <div class="form-group">
+            <label>Message</label>
+            <textarea class="form-control input-lg" rows="5" cols="10" placeholder="Message" name="message" required></textarea>
+          </div>
+          <button type="submit" class="btn btn-success btn-lg btn-trans" value="Send">Submit</button>
+        </form>
+        <!--END CONTACT FORM-->
+      </div>
+      </div> <!-- /row -->
+      <!-- END SECTION 2 CONTENT -->
+      </div>
+      <div class="col-md-1">
+      </div>
+      </div><!--/md-12 -->
+      </div><!--/row-->
+      <!--END SECTION 2 -->
+
+      <div class="row">
+      <div class="col-md-12 footer">
+      <!-- You are free to remove the link back to my website, however you should consider donating to the project on Github :) -->
+      Copyright &copy; 2021 <a href="#">Akasha Pool</a>
+      </div>
+      </div>
+
+    </div><!--/container final closing tag-->
+
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="./js/bootstrap.min.js"></script>
+      <script>
+
+        $(function () {
+          $(document).scroll(function () {
+            var $nav = $(".navbar-fixed-top");
+            $nav.toggleClass('scrolled', $(this).scrollTop() > 200);
+          });
+        });
+
+        $('body').scrollspy({ target: '#topnav' })
+
+
+      </script>
+  </body>
+</html>
