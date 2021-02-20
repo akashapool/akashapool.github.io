@@ -63,7 +63,7 @@ S2. NAVBAR
 */
 
 .navbar-default {
-  background-color: transparent !important;
+  background-color: rgba(34, 34, 34, 0.95) !important;
   color: #ffffff !important;
   border-color: transparent;
 }
