@@ -1,0 +1,202 @@
+	<!DOCTYPE html>
+	<html lang="en">
+	  <head> 
+	  <link rel="preconnect" href="https://fonts.gstatic.com">
+	  <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet"> 
+	  <!-- Global site tag (gtag.js) - Google Analytics -->
+	  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D8X7839LSD"></script>
+	  <script>
+	  	window.dataLayer = window.dataLayer || [];
+	   	function gtag(){dataLayer.push(arguments);}
+	   	gtag('js', new Date());
+		gtag('config', 'G-D8X7839LSD'); 
+	    </script>
+
+	    <meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+	    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	    <title>Akasha Pool</title>
+	    <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet"> 
+	    <!-- Bootstrap -->
+	    <link href="./css/bootstrap.min.css" rel="stylesheet">
+	    <link href="./css/onepagers-gradient.css" rel="stylesheet">
+	    <link href="./css/gradients.min.css" rel="stylesheet">
+	    <link rel="stylesheet" href="./font-awesome/css/font-awesome.min.css">
+	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	    <!--[if lt IE 9]>
+	      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	    <![endif]-->
+	  </head>
+	  <body data-spy="scroll" data-target="#topnav">
+	    <!-- MAIN CONTAINER -->
+	    <!-- Fixed navbar -->
+	      <nav class="navbar navbar-default navbar-fixed-top" id="topnav">
+		<div class="container">
+		  <div class="navbar-header">
+		    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+		    <span class="sr-only">Toggle navigation</span>
+		    <span class="icon-bar"></span>
+		    <span class="icon-bar"></span>
+		    <span class="icon-bar"></span>
+		    </button>
+		    <a class="navbar-brand">Ticker:[AKSH]</a>
+
+		    <a style="margin-top: 15px;" href="https://twitter.com/AkashaPool?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @AkashaPool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+		  </div>
+		  <div id="navbar" class="navbar-collapse collapse">
+		    <ul class="nav navbar-nav">
+		    </ul>
+		    <ul class="nav navbar-nav navbar-right">
+		      <li><a href="#home"><b>Home</b></a></li>
+		      <li><a href="#aboutme"><b>About me</b></a></li>
+		      <li><a href="#sayhello"><b>Say hello</b></a></li>
+		    </ul>
+		  </div><!--/.nav-collapse -->
+		</div>
+	      </nav>
+
+	    <div class="container-fluid">
+	      <!-- START SECTION 1 -->
+	      <div class="row">
+		<div class="col-md-12 leadsection innershadow deep-sea-space" id="home">
+
+		<div class="col-md-1">
+		</div>
+		<div class="col-md-10">
+		  <!-- START SECTION 1 CONTENT -->
+		  <img src="logo.png" alt="Akasha logo">	  		
+
+		  <p style="font-size:15px; margin-bottom: 0px; margin-top: 0px; color:#cdaf31; text-align:center;">akasha /əˈkɑːʃə/, noun</p>
+		  <p style="font-size:15px; margin-bottom: 0px; margin-top: 0px; color:#cdaf31; text-align:center;">an all-pervading field in the ether in which a record of past events is imprinted.</p>
+		  <br/><br/><br/><br/>
+		  <p align="justify"class="lead"><b>Akasha stake pool</b> is hosted on Linux OS which runs on baremetal dedicated servers (Intel NUC10i5/1TB SSD/32GB RAM), optimized for speed and low consumption. 
+		  <p align="justify"class="lead">Fully secured with industrial grade router/firewall running on a PC Engines APU2E4.</p>
+		  <p align="justify"class="lead">Gigabit network with fiber optic gateway of &darr;300Mbit/&uarr;20Mbit bandwidth.</p>
+		  <p align="justify"class="lead">Join us in this journey of financial decentralization.</p>
+		  <p align="justify"class="lead">Delegate to Akasha Pool and help us grow. We are here to stay!</p>
+		  <br/><br/><br/><br/><br/><br/>
+                 <!--<div class="quote">
+   	          <blockquote>
+	    	  <p>I believe that banking institutions are more dangerous to our liberties than standing armies.</p>
+	   	  <cite>~ Thomas Jefferson</cite>	
+		  </blockquote>
+		  </div> -->
+
+		  <!-- END SECTION 1 CONTENT -->
+		</div>
+		<div class="col-md-1">
+		</div>
+		</div><!--/md-12 -->
+	      </div><!--/row-->
+	      <!-- END SECTION 1 -->
+	      
+	      
+	    	      
+	       <!-- START SECTION 3 -->
+	      <div class="row">
+		<div class="col-md-12 leadsection innershadow deep-sea-space-inverse" id="aboutme">
+
+		<div class="col-md-1">
+		</div>
+		<div class="col-md-10">
+		  <!-- START SECTION 1 CONTENT -->
+		  
+
+		  <img src="self.png" alt="self" align="left" style="margin-right: 50px;">
+		  <br/><br/>
+		  <p align="left" class="lead">An aspiring SPO and experienced computer enginner, when not working I like to spend my time doing outdoor activities such as trekking and wild camping.</p>
+		  <p align="left" class="lead">Strong supporter of equality and justice. The vision and mission of Cardano is aligned with my moral compass. Financial decentralization and democratization, will mark the start of a new era.</p>
+		  <p align="left" class="lead">I am thrilled to be able to participate actively in this while doing something that I am passionate about.</p>
+		  <p align="center" class="lead">Power to us all!</p>
+		  <p></p>
+		</div>
+		<div class="col-md-1">
+		</div>
+		</div><!--/md-12 -->
+	      </div><!--/row-->
+	      <!-- END SECTION 3 -->
+	      
+	      
+	      
+	      <!-- START SECTION 4 -->
+	      <div class="row">
+	      <div class="col-md-12 section deep-sea-space" id="sayhello">
+
+	      <div class="col-md-1">
+	      </div>
+	      <div class="col-md-10">
+	      <h1>Say hello</h1><br/><br/>
+	      <p align="justify" class="lead">Please email us for any questions you may have or just to say hi!</p>
+	     <br/> <br/>
+		
+	 <div class="row">
+	      <div class="col-md-6 contact-left">
+		<!-- START CONTACT DETAILS -->
+		 <iframe width="500" height="380" frameborder="0" src="https://js.adapools.org/widget-dark.html?pool=d68004736add691133c8a5d662e3a0633fa0534cf46e15e9f33383e7"><a href="https://adapools.org/pool/d68004736add691133c8a5d662e3a0633fa0534cf46e15e9f33383e7">Detail</a></iframe>
+		  </p>
+
+		<p>Email: <a href="mailto:akashastakepool@gmail.com">akashastakepool@gmail.com</a><br>
+		
+		</p>
+		<!-- END CONTACT DETAILS -->
+	      </div>
+	      <div class="col-md-6 contact-right">
+		<!-- START CONTACT FORM -->
+		<form action="https://formspree.io/f/mpzoekjw"
+		      method="POST">
+		  <div class="form-group">
+		    <label>Your Email</label>
+		    <input type="email" class="form-control input-lg" name="_replyto" placeholder="Email" required>
+		  </div>
+		  <div class="form-group">
+		    <label>Subject</label>
+		    <input type="text" class="form-control input-lg" name="subject" placeholder="Subject">
+		  </div>
+		  <div class="form-group">
+		    <label>Message</label>
+		    <textarea class="form-control input-lg" rows="5" cols="10" placeholder="Message" name="message" required></textarea>
+		  </div>
+		  <button type="submit" class="btn btn-success btn-lg btn-trans" value="Send">Submit</button>
+		</form>
+		<!--END CONTACT FORM-->
+	      </div>
+	      </div> <!-- /row -->
+	      <!-- END SECTION 4 CONTENT -->
+	      </div>
+	      <div class="col-md-1">
+	      </div>
+	      </div><!--/md-12 -->
+	      </div><!--/row-->
+	      <!--END SECTION 4 -->        
+	      
+	      <div class="row">
+	      <div class="col-md-12 footer">
+	      Copyright &copy; 2021 <a href="#">Akasha Pool</a> | <a href="https://adapools.org/pool/d68004736add691133c8a5d662e3a0633fa0534cf46e15e9f33383e7">[AKSH]</a> 
+	      </div>
+	      </div>
+
+	    </div><!--/container final closing tag-->
+
+	      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	      <!-- Include all compiled plugins (below), or include individual files as needed -->
+	      <script src="./js/bootstrap.min.js"></script>
+	      <script>
+
+		$(function () {
+		  $(document).scroll(function () {
+		    var $nav = $(".navbar-fixed-top");
+		    $nav.toggleClass('scrolled', $(this).scrollTop() > 200);
+		  });
+		});
+
+		$('body').scrollspy({ target: '#topnav' })
+
+
+	      </script>
+	  </body>
+	</html>
